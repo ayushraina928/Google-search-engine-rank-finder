@@ -1,0 +1,18 @@
+BEFORE RUNNING
+
+USING Illuminati
+
+1.Download the local proxy Engine. RUn it before starting the code.
+
+USING GOOGLE EXCEL API
+
+1. Complete the steps inside google api by selecting Google Excel.
+2. Download clients_secret.json. Will look like my file.
+3. Name the sheet whatever you want. Add those values to code. 
+4. The code will 3 different excel workspace namely US, India, UAE.
+5. Create your own according to your country by making slight modifications to the code.
+
+
+NOTE- Run the code on million of proxy if you don't care about the location.
+NOTE - The code is supposed to run everyday, change it by changing the scheduler.
+NOTE - You would need to manuelly add Keywords to your excel sheet. These keywords would be updated each day for 30 days and then the last value will dissappear.  
